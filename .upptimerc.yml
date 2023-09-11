@@ -3,8 +3,8 @@ owner: dadapunk # Your GitHub organization or username, where this repository li
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: Personal site
+    url: https://www.sebastian-velasquez.dev
   - name: DuckDuckGo
     url: https://duckduckgo.com
 

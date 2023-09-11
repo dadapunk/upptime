@@ -11,6 +11,8 @@ sites:
     url: https://incidents.irep-tech.com
   - name: Ireport
     url: https://irepartners.com/ireport/
+    __dangerous__body_down_if_text_missing: '"title":"IREPort"'
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

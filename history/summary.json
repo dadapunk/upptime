@@ -4,19 +4,19 @@
     "url": "https://www.sebastian-velasquez.dev",
     "icon": "https://icons.duckduckgo.com/ip3/www.sebastian-velasquez.dev.ico",
     "slug": "personal-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 347,
-    "timeDay": 746,
-    "timeWeek": 347,
-    "timeMonth": 347,
-    "timeYear": 347,
+    "status": "up",
+    "uptime": "99.53%",
+    "uptimeDay": "98.12%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.53%",
+    "time": 364,
+    "timeDay": 640,
+    "timeWeek": 364,
+    "timeMonth": 364,
+    "timeYear": 364,
     "dailyMinutesDown": {
-      "2023-09-15": 0
+      "2023-09-15": 27
     }
   },
   {

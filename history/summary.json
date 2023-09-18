@@ -1,44 +1,5 @@
 [
   {
-    "name": "Personal site",
-    "url": "https://www.sebastian-velasquez.dev",
-    "icon": "https://icons.duckduckgo.com/ip3/www.sebastian-velasquez.dev.ico",
-    "slug": "personal-site",
-    "status": "up",
-    "uptime": "98.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.90%",
-    "uptimeMonth": "98.90%",
-    "uptimeYear": "98.90%",
-    "time": 366,
-    "timeDay": 215,
-    "timeWeek": 366,
-    "timeMonth": 366,
-    "timeYear": 366,
-    "dailyMinutesDown": {
-      "2023-09-16": 75,
-      "2023-09-15": 27
-    }
-  },
-  {
-    "name": "DuckDuckGo",
-    "url": "https://duckduckgo.com",
-    "icon": "https://icons.duckduckgo.com/ip3/duckduckgo.com.ico",
-    "slug": "duck-duck-go",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 90,
-    "timeDay": 96,
-    "timeWeek": 92,
-    "timeMonth": 90,
-    "timeYear": 90,
-    "dailyMinutesDown": {}
-  },
-  {
     "name": "Incidents Reporting Tool",
     "url": "https://incidents.irep-tech.com",
     "icon": "https://icons.duckduckgo.com/ip3/incidents.irep-tech.com.ico",
@@ -49,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 635,
-    "timeDay": 573,
-    "timeWeek": 635,
-    "timeMonth": 635,
-    "timeYear": 635,
+    "time": 641,
+    "timeDay": 648,
+    "timeWeek": 641,
+    "timeMonth": 641,
+    "timeYear": 641,
     "dailyMinutesDown": {}
   },
   {
@@ -67,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1391,
-    "timeDay": 1460,
-    "timeWeek": 1391,
-    "timeMonth": 1391,
-    "timeYear": 1391,
+    "time": 1377,
+    "timeDay": 1367,
+    "timeWeek": 1377,
+    "timeMonth": 1377,
+    "timeYear": 1377,
     "dailyMinutesDown": {}
   }
 ]

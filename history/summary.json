@@ -4,9 +4,9 @@
     "url": "https://incidents.irep-tech.com",
     "icon": "https://icons.duckduckgo.com/ip3/incidents.irep-tech.com.ico",
     "slug": "incidents-reporting-tool",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 704,
     "timeMonth": 693,
     "timeYear": 680,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-13": 0
+    }
   },
   {
     "name": "Ireport",

@@ -4,10 +4,10 @@
     "url": "https://incidents.irep-tech.com",
     "icon": "https://icons.duckduckgo.com/ip3/incidents.irep-tech.com.ico",
     "slug": "incidents-reporting-tool",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 683,
@@ -15,14 +15,16 @@
     "timeWeek": 681,
     "timeMonth": 675,
     "timeYear": 683,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-05": 1
+    }
   },
   {
     "name": "Ireport",
     "url": "https://irepartners.com/ireport/",
     "icon": "https://icons.duckduckgo.com/ip3/irepartners.com.ico",
     "slug": "ireport",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 1304,
     "timeMonth": 1321,
     "timeYear": 1327,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-05": 0
+    }
   },
   {
     "name": "Above Base Tracker",

@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/incidents.irep-tech.com.ico",
     "slug": "incidents-reporting-tool",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 681,
-    "timeDay": 681,
-    "timeWeek": 660,
-    "timeMonth": 669,
-    "timeYear": 681,
-    "dailyMinutesDown": {
-      "2023-12-05": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 679,
+    "timeDay": 500,
+    "timeWeek": 646,
+    "timeMonth": 659,
+    "timeYear": 679,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ireport",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/irepartners.com.ico",
     "slug": "ireport",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 1327,
-    "timeDay": 1232,
-    "timeWeek": 1314,
-    "timeMonth": 1323,
-    "timeYear": 1327,
-    "dailyMinutesDown": {
-      "2023-12-05": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1329,
+    "timeDay": 1450,
+    "timeWeek": 1316,
+    "timeMonth": 1333,
+    "timeYear": 1329,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Above Base Tracker",
@@ -50,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 128,
-    "timeDay": 102,
-    "timeWeek": 130,
-    "timeMonth": 118,
-    "timeYear": 128,
+    "time": 127,
+    "timeDay": 49,
+    "timeWeek": 128,
+    "timeMonth": 114,
+    "timeYear": 127,
     "dailyMinutesDown": {}
   }
 ]

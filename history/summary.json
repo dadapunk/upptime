@@ -22,19 +22,19 @@
     "url": "https://irepartners.com/ireport/",
     "icon": "https://icons.duckduckgo.com/ip3/irepartners.com.ico",
     "slug": "ireport",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1290,
-    "timeDay": 1149,
-    "timeWeek": 1142,
-    "timeMonth": 1247,
-    "timeYear": 1290,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1292,
+    "timeDay": 1184,
+    "timeWeek": 1158,
+    "timeMonth": 1254,
+    "timeYear": 1292,
     "dailyMinutesDown": {
-      "2023-12-19": 0
+      "2023-12-19": 8
     }
   },
   {

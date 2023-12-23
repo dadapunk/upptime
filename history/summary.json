@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 676,
-    "timeDay": 499,
-    "timeWeek": 639,
-    "timeMonth": 643,
-    "timeYear": 676,
+    "time": 678,
+    "timeDay": 853,
+    "timeWeek": 665,
+    "timeMonth": 653,
+    "timeYear": 678,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/irepartners.com.ico",
     "slug": "ireport",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 1270,
-    "timeDay": 1261,
-    "timeWeek": 1148,
-    "timeMonth": 1214,
-    "timeYear": 1270,
-    "dailyMinutesDown": {
-      "2023-12-22": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1269,
+    "timeDay": 1206,
+    "timeWeek": 1145,
+    "timeMonth": 1211,
+    "timeYear": 1269,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Above Base Tracker",
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 122,
-    "timeDay": 63,
-    "timeWeek": 112,
-    "timeMonth": 101,
+    "timeDay": 108,
+    "timeWeek": 117,
+    "timeMonth": 103,
     "timeYear": 122,
     "dailyMinutesDown": {}
   }

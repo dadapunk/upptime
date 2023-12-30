@@ -24,18 +24,16 @@
     "slug": "ireport",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1253,
-    "timeDay": 1069,
+    "timeDay": 1221,
     "timeWeek": 1146,
     "timeMonth": 1181,
     "timeYear": 1253,
-    "dailyMinutesDown": {
-      "2023-12-29": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Above Base Tracker",

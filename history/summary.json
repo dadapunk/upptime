@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 674,
-    "timeDay": 568,
-    "timeWeek": 708,
-    "timeMonth": 664,
-    "timeYear": 674,
+    "time": 673,
+    "timeDay": 575,
+    "timeWeek": 670,
+    "timeMonth": 656,
+    "timeYear": 673,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "https://irepartners.com/ireport/",
     "icon": "https://icons.duckduckgo.com/ip3/irepartners.com.ico",
     "slug": "ireport",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1240,
-    "timeDay": 1385,
-    "timeWeek": 1164,
+    "time": 1239,
+    "timeDay": 1239,
+    "timeWeek": 1168,
     "timeMonth": 1164,
-    "timeYear": 1240,
+    "timeYear": 1239,
     "dailyMinutesDown": {
-      "2024-01-12": 7
+      "2024-01-12": 0
     }
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 122,
-    "timeDay": 127,
-    "timeWeek": 117,
-    "timeMonth": 117,
+    "timeDay": 54,
+    "timeWeek": 110,
+    "timeMonth": 116,
     "timeYear": 122,
     "dailyMinutesDown": {}
   }

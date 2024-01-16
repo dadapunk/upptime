@@ -13,7 +13,7 @@
     "time": 673,
     "timeDay": 799,
     "timeWeek": 652,
-    "timeMonth": 655,
+    "timeMonth": 659,
     "timeYear": 673,
     "dailyMinutesDown": {}
   },
@@ -22,18 +22,20 @@
     "url": "https://irepartners.com/ireport/",
     "icon": "https://icons.duckduckgo.com/ip3/irepartners.com.ico",
     "slug": "ireport",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1235,
-    "timeDay": 1107,
-    "timeWeek": 1171,
-    "timeMonth": 1160,
+    "timeDay": 1047,
+    "timeWeek": 1168,
+    "timeMonth": 1161,
     "timeYear": 1235,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-16": 0
+    }
   },
   {
     "name": "Above Base Tracker",

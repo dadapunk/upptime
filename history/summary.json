@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 672,
-    "timeDay": 802,
-    "timeWeek": 658,
-    "timeMonth": 656,
-    "timeYear": 672,
+    "time": 671,
+    "timeDay": 598,
+    "timeWeek": 662,
+    "timeMonth": 655,
+    "timeYear": 671,
     "dailyMinutesDown": {}
   },
   {
@@ -24,18 +24,16 @@
     "slug": "ireport",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1228,
-    "timeDay": 1104,
-    "timeWeek": 1148,
-    "timeMonth": 1168,
+    "timeDay": 1201,
+    "timeWeek": 1138,
+    "timeMonth": 1169,
     "timeYear": 1228,
-    "dailyMinutesDown": {
-      "2024-01-24": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Above Base Tracker",
@@ -43,16 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/abtracker-test.vercel.app.ico",
     "slug": "above-base-tracker",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.74%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.98%",
-    "time": 131,
-    "timeDay": 195,
-    "timeWeek": 217,
+    "uptimeYear": "99.99%",
+    "time": 130,
+    "timeDay": 74,
+    "timeWeek": 100,
     "timeMonth": 157,
-    "timeYear": 131,
+    "timeYear": 130,
     "dailyMinutesDown": {
       "2024-01-17": 26
     }

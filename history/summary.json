@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 669,
-    "timeDay": 489,
-    "timeWeek": 624,
-    "timeMonth": 641,
-    "timeYear": 669,
+    "time": 670,
+    "timeDay": 807,
+    "timeWeek": 625,
+    "timeMonth": 649,
+    "timeYear": 670,
     "dailyMinutesDown": {}
   },
   {
@@ -24,18 +24,16 @@
     "slug": "ireport",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1235,
-    "timeDay": 1073,
-    "timeWeek": 1292,
+    "timeDay": 1039,
+    "timeWeek": 1317,
     "timeMonth": 1211,
     "timeYear": 1235,
-    "dailyMinutesDown": {
-      "2024-01-30": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Above Base Tracker",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
-    "time": 128,
-    "timeDay": 66,
-    "timeWeek": 94,
-    "timeMonth": 148,
-    "timeYear": 128,
+    "time": 129,
+    "timeDay": 166,
+    "timeWeek": 90,
+    "timeMonth": 150,
+    "timeYear": 129,
     "dailyMinutesDown": {
       "2024-01-17": 26
     }

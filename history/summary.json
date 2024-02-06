@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 671,
-    "timeDay": 542,
-    "timeWeek": 693,
-    "timeMonth": 665,
-    "timeYear": 671,
+    "time": 670,
+    "timeDay": 560,
+    "timeWeek": 703,
+    "timeMonth": 656,
+    "timeYear": 670,
     "dailyMinutesDown": {}
   },
   {
@@ -24,17 +24,16 @@
     "slug": "ireport",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.98%",
-    "time": 1225,
-    "timeDay": 1162,
+    "time": 1226,
+    "timeDay": 1163,
     "timeWeek": 1149,
-    "timeMonth": 1189,
-    "timeYear": 1225,
+    "timeMonth": 1192,
+    "timeYear": 1226,
     "dailyMinutesDown": {
-      "2024-02-05": 8,
       "2024-02-03": 17,
       "2024-02-01": 23
     }
@@ -50,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
-    "time": 127,
-    "timeDay": 95,
-    "timeWeek": 91,
-    "timeMonth": 140,
-    "timeYear": 127,
+    "time": 126,
+    "timeDay": 58,
+    "timeWeek": 90,
+    "timeMonth": 139,
+    "timeYear": 126,
     "dailyMinutesDown": {
       "2024-01-17": 26
     }

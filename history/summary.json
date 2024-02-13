@@ -24,17 +24,16 @@
     "slug": "ireport",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.98%",
     "time": 1220,
     "timeDay": 1230,
     "timeWeek": 1192,
-    "timeMonth": 1193,
+    "timeMonth": 1196,
     "timeYear": 1220,
     "dailyMinutesDown": {
-      "2024-02-13": 8,
       "2024-02-03": 17,
       "2024-02-01": 23
     }
@@ -44,18 +43,19 @@
     "url": "https://abtracker-test.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/abtracker-test.vercel.app.ico",
     "slug": "above-base-tracker",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 132,
-    "timeDay": 76,
-    "timeWeek": 240,
-    "timeMonth": 166,
+    "timeDay": 73,
+    "timeWeek": 219,
+    "timeMonth": 164,
     "timeYear": 132,
     "dailyMinutesDown": {
+      "2024-02-13": 0,
       "2024-01-17": 26
     }
   }

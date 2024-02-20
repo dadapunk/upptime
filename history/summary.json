@@ -4,19 +4,19 @@
     "url": "https://incidents.irep-tech.com",
     "icon": "https://icons.duckduckgo.com/ip3/incidents.irep-tech.com.ico",
     "slug": "incidents-reporting-tool",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 666,
-    "timeDay": 501,
-    "timeWeek": 602,
-    "timeMonth": 647,
-    "timeYear": 666,
+    "time": 728,
+    "timeDay": 5939,
+    "timeWeek": 1949,
+    "timeMonth": 983,
+    "timeYear": 728,
     "dailyMinutesDown": {
-      "2024-02-20": 0
+      "2024-02-20": 7
     }
   },
   {
@@ -33,7 +33,7 @@
     "time": 1210,
     "timeDay": 1215,
     "timeWeek": 1140,
-    "timeMonth": 1175,
+    "timeMonth": 1176,
     "timeYear": 1210,
     "dailyMinutesDown": {
       "2024-02-03": 17,
@@ -48,8 +48,8 @@
     "status": "down",
     "uptime": "95.43%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "3.87%",
-    "uptimeMonth": "77.88%",
+    "uptimeWeek": "3.80%",
+    "uptimeMonth": "77.86%",
     "uptimeYear": "95.43%",
     "time": 130,
     "timeDay": 142,
@@ -57,7 +57,7 @@
     "timeMonth": 127,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2024-02-20": 473,
+      "2024-02-20": 480,
       "2024-02-19": 1440,
       "2024-02-18": 1440,
       "2024-02-17": 1440,

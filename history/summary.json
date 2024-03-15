@@ -4,10 +4,10 @@
     "url": "https://incidents.irep-tech.com",
     "icon": "https://icons.duckduckgo.com/ip3/incidents.irep-tech.com.ico",
     "slug": "incidents-reporting-tool",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 717,
@@ -15,18 +15,20 @@
     "timeWeek": 642,
     "timeMonth": 986,
     "timeYear": 717,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-15": 1
+    }
   },
   {
     "name": "Above Base Tracker",
     "url": "https://abt.irep-tech.com/",
     "icon": "https://icons.duckduckgo.com/ip3/abt.irep-tech.com.ico",
     "slug": "above-base-tracker",
-    "status": "up",
+    "status": "down",
     "uptime": "95.42%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "78.85%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "79.43%",
     "uptimeYear": "95.42%",
     "time": 132,
     "timeDay": 195,
@@ -34,6 +36,7 @@
     "timeMonth": 135,
     "timeYear": 132,
     "dailyMinutesDown": {
+      "2024-03-15": 1,
       "2024-02-21": 633,
       "2024-02-20": 1440,
       "2024-02-19": 1440,
@@ -51,9 +54,9 @@
     "url": "https://tools.irep-tech.com/",
     "icon": "https://icons.duckduckgo.com/ip3/tools.irep-tech.com.ico",
     "slug": "asset-tool",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -62,6 +65,8 @@
     "timeWeek": 114,
     "timeMonth": 124,
     "timeYear": 124,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-15": 0
+    }
   }
 ]

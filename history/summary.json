@@ -4,18 +4,20 @@
     "url": "https://incidents.irep-tech.com",
     "icon": "https://icons.duckduckgo.com/ip3/incidents.irep-tech.com.ico",
     "slug": "incidents-reporting-tool",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 702,
-    "timeDay": 547,
-    "timeWeek": 657,
-    "timeMonth": 654,
+    "timeDay": 652,
+    "timeWeek": 670,
+    "timeMonth": 657,
     "timeYear": 702,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-17": 0
+    }
   },
   {
     "name": "Above Base Tracker",

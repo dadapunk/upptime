@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
-    "time": 743,
-    "timeDay": 986,
-    "timeWeek": 805,
-    "timeMonth": 822,
-    "timeYear": 771,
+    "time": 744,
+    "timeDay": 943,
+    "timeWeek": 804,
+    "timeMonth": 828,
+    "timeYear": 772,
     "dailyMinutesDown": {
       "2024-07-01": 388,
       "2024-06-30": 1064
@@ -26,22 +26,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/abt.irep-tech.com.ico",
     "slug": "above-base-tracker",
     "status": "up",
-    "uptime": "98.45%",
+    "uptime": "98.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.24%",
+    "uptimeYear": "98.51%",
     "time": 178,
-    "timeDay": 127,
-    "timeWeek": 152,
-    "timeMonth": 271,
+    "timeDay": 172,
+    "timeWeek": 146,
+    "timeMonth": 270,
     "timeYear": 195,
     "dailyMinutesDown": {
       "2024-02-21": 633,
       "2024-02-20": 1440,
       "2024-02-19": 1440,
-      "2024-02-18": 1440,
-      "2024-02-17": 1440
+      "2024-02-18": 1440
     }
   },
   {
@@ -56,9 +55,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 137,
-    "timeDay": 102,
-    "timeWeek": 129,
-    "timeMonth": 138,
+    "timeDay": 108,
+    "timeWeek": 120,
+    "timeMonth": 137,
     "timeYear": 137,
     "dailyMinutesDown": {}
   }

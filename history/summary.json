@@ -14,7 +14,7 @@
     "timeDay": 982,
     "timeWeek": 805,
     "timeMonth": 777,
-    "timeYear": 776,
+    "timeYear": 775,
     "dailyMinutesDown": {
       "2024-07-01": 388,
       "2024-06-30": 1064
@@ -25,9 +25,9 @@
     "url": "https://abt.irep-tech.com/",
     "icon": "https://icons.duckduckgo.com/ip3/abt.irep-tech.com.ico",
     "slug": "above-base-tracker",
-    "status": "up",
+    "status": "down",
     "uptime": "98.69%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,16 +36,18 @@
     "timeWeek": 150,
     "timeMonth": 149,
     "timeYear": 194,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-17": 0
+    }
   },
   {
     "name": "Asset Tool",
     "url": "https://tools.irep-tech.com/",
     "icon": "https://icons.duckduckgo.com/ip3/tools.irep-tech.com.ico",
     "slug": "asset-tool",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -54,6 +56,8 @@
     "timeWeek": 112,
     "timeMonth": 118,
     "timeYear": 136,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-17": 0
+    }
   }
 ]

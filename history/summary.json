@@ -24,9 +24,9 @@
     "slug": "above-base-tracker",
     "status": "up",
     "uptime": "98.82%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 186,
     "timeDay": 180,
@@ -34,7 +34,6 @@
     "timeMonth": 154,
     "timeYear": 195,
     "dailyMinutesDown": {
-      "2025-07-21": 8,
       "2025-07-16": 16
     }
   },
@@ -45,9 +44,9 @@
     "slug": "asset-tool",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 135,
     "timeDay": 93,
@@ -55,7 +54,6 @@
     "timeMonth": 147,
     "timeYear": 138,
     "dailyMinutesDown": {
-      "2025-07-21": 8,
       "2025-07-16": 16
     }
   }
